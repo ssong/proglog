@@ -1,4 +1,4 @@
-module proglog
+module github.com/ssong/proglog
 
 go 1.17
 
